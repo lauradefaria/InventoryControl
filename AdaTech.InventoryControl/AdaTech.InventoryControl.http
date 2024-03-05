@@ -1,0 +1,6 @@
+@AdaTech.InventoryControl_HostAddress = http://localhost:5190
+
+GET {{AdaTech.InventoryControl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
